@@ -22,7 +22,7 @@ Sample Output:
 
 YES
 
-Explanantion:
+Explanation:
 
 We can make the string guvguvii empty by deleting guvi 2 times, so the output is "YES"
 
