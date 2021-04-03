@@ -3,7 +3,7 @@
 Question:
 
 You are given two strings a and k. Write a program to perfrom following task:
-You can delete string k from string s any number of times. It is also given that the string k appears only once at a time in the dires+ct way. The task is to find if the string s can become empty by removing string k again and again. Print "YES" if the string s is empty after consequent deletion of string k, else print "NO".
+You can delete string k from string s any number of times. It is also given that the string k appears only once at a time in the direct way. The task is to find if the string s can become empty by removing string k again and again. Print "YES" if the string s is empty after consequent deletion of string k, else print "NO".
 
 Input Description:
 
